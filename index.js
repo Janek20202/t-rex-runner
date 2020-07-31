@@ -1862,7 +1862,7 @@
         this.y = 5;
 
         this.currentDistance = 0;
-        this.maxScore = 0;
+        this.maxScore = 0000000000;
         this.highScore = 0;
         this.container = null;
 
@@ -1906,7 +1906,7 @@
         MAX_DISTANCE_UNITS: 5,
 
         // Distance that causes achievement animation.
-        ACHIEVEMENT_DISTANCE: 100,
+        ACHIEVEMENT_DISTANCE: 1000,
 
         // Used for conversion from pixel distance to a scaled unit.
         COEFFICIENT: 0.025,
