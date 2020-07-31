@@ -27,7 +27,7 @@
 
         this.dimensions = Runner.defaultDimensions;
 
-        this.canvas = null;
+        this.canvas = null; 
         this.canvasCtx = null;
 
         this.tRex = null;
